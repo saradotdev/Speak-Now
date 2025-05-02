@@ -89,12 +89,10 @@ Make sure you have the following installed:
 
 2. You can:
    - **Record a new presentation:** Click on the "Record" button and start recording your presentation.
-
-![Record Page](./screenshots/record.png)
+   ![Record Page](./screenshots/record.png)
 
    - **Upload an existing video:** Click on the "Upload" button to upload a video file for analysis.
-
-![Upload Page](./screenshots/upload.png)
+   ![Upload Page](./screenshots/upload.png)
 
 3. Once the video is uploaded or recorded, the system will process it and generate a detailed feedback report on your facial expressions and voice tone.
 
