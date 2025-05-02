@@ -9,6 +9,23 @@
 - **Voice Analysis:** Analyzes tone and pitch to evaluate nervousness and confidence using pre-trained voice models.
 - **Comprehensive Reports:** Combines video and voice analysis to generate a detailed feedback report with visual graphs of emotional patterns.
 
+## UI Preview 🖼️
+
+### 🏠 Home Page
+![Home Page](./screenshots/home.png)
+
+### ℹ️ About Page
+![About Page](./screenshots/about.png)
+
+### ✨ Features Page
+![Features Page](./screenshots/features.png)
+
+### 👥 Team Page
+![Team Page](./screenshots/team.png)
+
+### 📬 Contact Page
+![Contact Page](./screenshots/contact.png)
+
 ## Technologies Used ⚙
 - **Frontend:**
   - React.js for UI and interactivity.
@@ -72,9 +89,16 @@ Make sure you have the following installed:
 
 2. You can:
    - **Record a new presentation:** Click on the "Record" button and start recording your presentation.
+
+![Record Page](./screenshots/record.png)
+
    - **Upload an existing video:** Click on the "Upload" button to upload a video file for analysis.
 
+![Upload Page](./screenshots/upload.png)
+
 3. Once the video is uploaded or recorded, the system will process it and generate a detailed feedback report on your facial expressions and voice tone.
+
+![Feedback Page](./screenshots/feedback.png)
 
 ## Additional Information ℹ️
 For more information about Speak Now, including project updates, documentation, and community guidelines, please check out the [GitHub repository](https://github.com/saradotdev/Speak-Now).
