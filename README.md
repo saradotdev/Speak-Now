@@ -1,5 +1,7 @@
 # Speak Now – A Public Speaking Tool for Emotion and Voice Analysis 🗣
 
+🔗 **Live Demo:** [https://speak-now-ai.vercel.app/](https://speak-now-ai.vercel.app/)
+
 ## Project Description 📝
 **Speak Now** is a web-based public speaking tool designed to help users improve their public speaking skills by providing detailed feedback on their recorded or uploaded presentations. The platform performs a dual analysis on both **facial expressions** and **voice tone**, assessing levels of **nervousness** and **confidence**. The analysis generates comprehensive reports that provide feedback to help users identify their strengths and areas for improvement.
 
